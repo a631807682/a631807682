@@ -8,3 +8,7 @@
 - 🌱 I’m currently focusing on Go language open source
 - 📫 Reach me: chenrui294815@gmail.com
 - 💬 Ask me about Nodejs or Go
+
+---
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=a631807682.readme)
