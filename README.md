@@ -8,6 +8,7 @@
 - 🌱 I’m currently focusing on Go language open source
 - 📫 Reach me: chenrui294815@gmail.com
 - 💬 Ask me about Nodejs or Go
+- 📄 I'm looking for a job so that I can eat without starving, if you are interested in me, you can check my [resume](mailto:631807682@qq.com) for details!
 
 ---
 
